@@ -36,7 +36,7 @@ FF14のロードストーンでコメント欄の縦へのリサイズと
 ## 問い合わせ
 
 要望等ありましたら、下記日記にコメントをお願いします。  
-[FF14日記](http://jp.finalfantasyxiv.com/lodestone/character/8564933/blog/2689352/ "外部画像参照が楽になったです～")
+[FF14日記](http://jp.finalfantasyxiv.com/lodestone/character/8564933/blog/3229454/ "コメント投稿の機能を拡張するです～")
 
 ## 作者
 
