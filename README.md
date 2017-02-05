@@ -7,10 +7,10 @@ FF14のロードストーンでコメント欄のリサイズ機能、コメン�
 FF14のロードストーンでコメント欄の縦へのリサイズと
 コメント投稿結果のイメージが確認出来るようになります。
 
-コメント欄リサイズ機能
+コメント欄リサイズ機能  
 ![コメント欄リサイズ](https://raw.github.com/NohohonNohon/ff14CommentExtensionScript/master/data/resizeComment.jpg)
 
-コメント確認機能
+コメント確認機能  
 ![コメント確認](https://raw.github.com/NohohonNohon/ff14CommentExtensionScript/master/data/previewComment.jpg)
 
 ## 対応ブラウザ
@@ -23,7 +23,7 @@ FF14のロードストーンでコメント欄の縦へのリサイズと
 ## インストール
 
 1. 下記リンクをクリックしてください。  
-  [FF14外部画像参照補助スクリプト](https://raw.github.com/NohohonNohon/ff14CommentExtensionScript/master/FF14コメント投稿拡張スクリプト.user.js "FF14外部画像参照補助スクリプト")
+  [FF14コメント投稿拡張スクリプト](https://raw.github.com/NohohonNohon/ff14CommentExtensionScript/master/FF14コメント投稿拡張スクリプト.user.js "FF14コメント投稿拡張スクリプト")
 
 2. インストール確認画面で[インストール]をクリックしてください。  
 ![Firefox](https://raw.github.com/NohohonNohon/ff14CommentExtensionScript/master/data/firefox_inst.jpg)
