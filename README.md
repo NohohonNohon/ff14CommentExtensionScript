@@ -1,0 +1,2 @@
+# ff14CommentExtensionScript
+FF14コメント投稿拡張スクリプト
