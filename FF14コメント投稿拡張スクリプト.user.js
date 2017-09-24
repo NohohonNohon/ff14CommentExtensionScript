@@ -4,7 +4,8 @@
 // @author      nohohon
 // @description FF14のコメント投稿で表示サイズ変更、プレビュー機能を追加する
 // @include     https://jp.finalfantasyxiv.com/lodestone/character/*
-// @version     1.1
+// @include     http://jp.finalfantasyxiv.com/lodestone/character/*
+// @version     1.2
 // @grant       none
 // ==/UserScript==
 (function(){
