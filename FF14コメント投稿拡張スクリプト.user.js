@@ -5,7 +5,7 @@
 // @description FF14のコメント投稿で表示サイズ変更、プレビュー機能を追加する
 // @include     https://jp.finalfantasyxiv.com/lodestone/character/*
 // @include     http://jp.finalfantasyxiv.com/lodestone/character/*
-// @version     1.3
+// @version     1.4
 // @grant       none
 // ==/UserScript==
 (function(){
@@ -78,10 +78,8 @@
         var date = new Date();
         var dateString = date.getFullYear() + '/' + ('0' + (date.getMonth() + 1)).slice(-2) + '/' + ('0' + date.getDate()).slice(-2)+
                                 ' ' + ('0' + date.getHours()).slice(-2) + ':' + ('0' + date.getMinutes()).slice(-2) + ':' + ('0' + date.getSeconds()).slice(-2);
-        var elemPlayerName = document.evaluate('//*[@id="community"]/div[4]/div[2]/div[2]/div[4]/div[2]/a[1]/div/p[1]',
-                                        document, null, XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE, null ).snapshotItem(0);
-        var elemPlayerServer = document.evaluate('//*[@id="community"]/div[4]/div[2]/div[2]/div[4]/div[2]/a[1]/div/p[2]',
-                                        document, null, XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE, null ).snapshotItem(0);
+        var elemPlayerName = document.getElementsByClassName('frame__chara__name--side')[0];
+        var elemPlayerServer = document.getElementsByClassName('frame__chara__world--side')[0];
         var faceRadioList = document.getElementsByName('face_emotion_id');
         var srcFaceImage;
         for(var i=0; i<faceRadioList.length; i++){
