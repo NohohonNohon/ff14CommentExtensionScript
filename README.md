@@ -16,7 +16,7 @@ FF14のロードストーンでコメント欄の縦へのリサイズと
 ## 対応ブラウザ
 
 - Firefox  
-※[Greasemonkey](https://addons.mozilla.org/ja/firefox/addon/greasemonkey/ "Greasemonkey :: Add-ons for Firefox")のインストールが必要です。
+※[Tampermonkey](https://addons.mozilla.org/ja/firefox/addon/tampermonkey/ "Tampermonkey – Firefox 向けアドオン")のインストールが必要です。
 - Chrome  
 ※[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo "Tampermonkey - Chrome Web Store")のインストールが必要です。
 
